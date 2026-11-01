@@ -1,4 +1,4 @@
-## Hi there 👋
+Glad to see you here! I'm currently learning Data Science and math.
 
 <!--
 **qwheel/qwheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
